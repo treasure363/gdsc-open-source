@@ -1,0 +1,6 @@
+Steps to follows:
+- Update the repository `git pull`
+- Make changes to the repository
+- Add the files to keep track of them `git add`
+- Commit to git
+Hello, I am Ankit, Today's Open Source Contributor!
